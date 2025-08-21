@@ -20,22 +20,6 @@
 
 ---
 
-## 📂 Projects  
-
-- **[Django Employee Management – CRUD Application](#)**  
-   🔹 REST APIs for employee & department management  
-   🔹 Tech: Django, DRF, MySQL, Redis, JWT, AWS  
-
-- **[Face Recognition Attendance System](#)**  
-   🔹 Automates attendance with facial recognition from CCTV  
-   🔹 Tech: Python, OpenCV, Tkinter  
-
-- **[HealthPay – FastAPI Backend for Medical Claims](#)**  
-   🔹 Asynchronous claim processing with AI agents & LLM  
-   🔹 Tech: FastAPI, GPT-4o-mini, Docker  
-
----
-
 ## 🏆 Achievements  
 - ✅ Solved **730+ problems on LeetCode** (27+ badges)  
 - 🥈 Secured **2nd place in a coding competition by Smart Interviews (2024)**  
