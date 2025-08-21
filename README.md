@@ -11,28 +11,12 @@
 - 🎯 Fun fact: I enjoy mentoring juniors in **DSA & Problem Solving** (730+ problems solved on LeetCode 🏆)  
 
 ---
-
 ## 🛠️ My Skill Set  
 
-### 🔹 Backend
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)  
-![DRF](https://img.shields.io/badge/Django%20REST-ff1709?logo=django&logoColor=white)  
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?logo=sqlalchemy&logoColor=white)
+| Backend | Databases & Messaging | Tools & DevOps |
+|---------|------------------------|----------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![DRF](https://img.shields.io/badge/Django%20REST-ff1709?logo=django&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-red?logo=sqlalchemy&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white) |
 
-### 🔹 Databases & Messaging
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
-![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)  
-![Celery](https://img.shields.io/badge/Celery-37814A?logo=celery&logoColor=white)  
-
-### 🔹 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)  
 
 ---
 
