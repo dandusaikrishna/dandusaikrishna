@@ -21,7 +21,7 @@
 ---
 
 ## 🏆 Achievements  
-- ✅ Solved **500+ problems on LeetCode** (27+ badges)  
+- ✅ Solved **600+ problems on LeetCode** (27+ badges)  
 - 🥈 Secured **2nd place in a coding competition by Smart Interviews (2024)**  
 - 👨‍🏫 Mentored students in **DSA & Problem Solving**  
 - 💡 Built **10+ personal projects** showcasing backend & AI integrations  
