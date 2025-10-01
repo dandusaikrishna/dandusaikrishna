@@ -1,4 +1,4 @@
-# Hey 👋, I'm Sai Krishna Dandu 
+# Hey 👋, I'm Sai Krishna Dandu
 
 🚀 Passionate about building scalable backend systems and solving real-world problems with Python, APIs, and Databases.  
 🎯 Always eager to learn and explore new backend trends & architectures.  
