@@ -7,7 +7,7 @@
 
 ## 💡 About Me
 - 🔭 Currently working on **backend services, REST APIs, and automation scripts**  
-- 💬 Ask me about **Python, Django, FastAPI, Databases, and Backend Development**  
+- 💬 Ask me about **Python, Django, FastAPI, Databases, AI, and Backend Development**  
 - 🎯 Fun fact: I enjoy mentoring juniors in **DSA & Problem Solving** (730+ problems solved on LeetCode 🏆)  
 
 ---
