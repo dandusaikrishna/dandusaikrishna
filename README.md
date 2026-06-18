@@ -1,7 +1,8 @@
 # Hey 👋, I'm Sai Krishna Dandu
 
 🚀 Backend-focused Software Engineer building scalable APIs, analytics systems, and distributed services with **Go, Python, and Django**.  
-🎯 Currently at **Deepta.ai** — owning full-stack features from ClickHouse query design to React frontend.
+🎯  I am currently working at Deepta AI as a Software Engineer.
+
 
 ---
 
