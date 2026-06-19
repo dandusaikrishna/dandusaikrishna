@@ -1,7 +1,8 @@
 # Hey 👋, I'm Sai Krishna Dandu
 
-🚀 Backend-focused Software Engineer building scalable APIs, analytics systems, and distributed services with **Go, Python, and Django**.  
-🎯  I am currently working at Deepta AI as a Software Engineer.
+🚀 Backend Software Engineer specializing in scalable APIs, distributed systems, and analytics platforms using **Go, Python, Django, and FastAPI**.
+
+Currently working as a **Software Engineer at Deepta AI**, where I build analytics dashboards, ERP services, RBAC systems, and backend infrastructure that support enterprise-scale applications.
 
 
 ---
