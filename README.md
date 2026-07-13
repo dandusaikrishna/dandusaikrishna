@@ -11,7 +11,7 @@ Currently working as a **Software Engineer at Deepta AI**, where I build analyti
 
 - 🔭 Currently working as **Software Engineer I at Deepta.ai** — building analytics dashboards, RBAC systems, and ERP services
 - 💬 Ask me about **Go, Python, Django, FastAPI, ClickHouse, Kafka, and Backend Architecture**
-- 🏆 Solved **730+ problems on LeetCode** (27+ badges)
+- 🏆 Solved **700+ problems on LeetCode** (27+ badges)
 - 👨‍🏫 Mentored **50+ students** in DSA & Problem Solving at Smart Interviews
 
 ---
