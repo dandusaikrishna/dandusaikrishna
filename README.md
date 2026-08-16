@@ -2,7 +2,7 @@
 
 🚀 Backend Software Engineer specializing in scalable APIs, distributed systems, and analytics platforms using **Go, Python, Django, and FastAPI**.
 
-Currently working as a **Software Engineer at Deepta AI**, where I build analytics dashboards, ERP services, RBAC systems, and backend infrastructure that support enterprise-scale applications.
+Currently working as a **Software Engineer at Deepta AI Private Limited**, where I build analytics dashboards, ERP services, RBAC systems, and backend infrastructure that support enterprise-scale applications.
 
 
 ---
